@@ -1,6 +1,10 @@
 <?php
 
 echo 'hello world';
+echo '<br>';
+echo "Hi to all of you";
+
+echo "first".' '. "command";
 ?>
 
 
